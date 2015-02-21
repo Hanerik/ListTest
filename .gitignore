@@ -1,12 +1,4 @@
 .gradle
-/.idea
-/gradle
-/ListTest
-/settings.gradle
-/ListTest.iml
-/gradlew.bat
-/gradlew
-/gradle.properties
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
